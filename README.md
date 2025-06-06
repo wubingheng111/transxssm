@@ -1,4 +1,4 @@
-# TransXSSM: A Hybrid Transformer-Mamba Architecture Model
+# TransXSSM: A Hybrid Transformer–State Space Model with Unified Rotary Position Embedding
 
 [![Paper](https://img.shields.io/badge/Paper-NIPS%202025%20Submission-red)](https://neurips.cc/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
